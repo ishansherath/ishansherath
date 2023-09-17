@@ -1,7 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/D4D16AQEJ8tedGNFnPA/profile-displaybackgroundimage-shrink_350_1400/0/1686491740186?e=1700697600&v=beta&t=O_kfS9fldo1WVaZXbPLtdmWtrTMzoimmHalkJ5ppbIw)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ishan</h1>
 <h3 align="center">A passionate UX Designer from Sri Lanka</h3>
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://twitter.com/ishansaminda" target="blank"><img src="https://img.shields.io/twitter/follow/ishansaminda?logo=twitter&style=for-the-badge" alt="ishansaminda" /></a> </p>
 
